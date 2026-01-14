@@ -19,6 +19,7 @@ The application allows users to create, view, and manage tasks through a web int
 
 ---
 
+
 ## Project Architecture
 
 The application follows standard Spring Boot layered architecture:
